@@ -1,0 +1,5 @@
+# Phiên bản các công cụ sử dụng trong Lab 02
+node 20.11.0
+npm 10.2.4
+@stoplight/spectral-cli 6.16.0
+@stoplight/prism-cli 5.11.0
